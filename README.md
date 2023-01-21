@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ### Hi there 👋 
 
@@ -37,3 +36,12 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fatos divertidos: Eu adoro praticar esportes no meu tempo livre
 
+-->
+
+### Hi there 👋
+I am a dedicated and ambitious individual with a passion for web development. I possess a strong understanding of HTML, CSS, JavaScript, and Bootstrap and i'm currently working on educational projects. I am also actively seeking opportunities to learn full-stack JavaScript development. My goal is to become a full-stack JavaScript developer and I am continuously seeking new opportunities to improve my skills. I am available for collaboration and open to help with advanced JavaScript concepts. You can reach me on [LinkedIn](https://www.linkedin.com/in/gabriel-rocha-28ab8414b/).
+
+<hr>
+
+### Oi, tudo bem? 👋
+Sou uma pessoa dedicada e ambiciosa com paixão por desenvolvimento web. Possuo uma forte compreensão de HTML, CSS, JavaScript e Bootstrap e atualmente estou trabalhando em projetos educacionais. Também estou ativamente buscando oportunidades para aprender desenvolvimento javascript full-stack. Meu objetivo é me tornar um desenvolvedor javascript full-stack e estou continuamente buscando novas oportunidades para melhorar minhas habilidades. Estou disponível para colaboração e aberto para ajudar com conceitos avançados de javascript. Você pode me contatar pelo [LinkedIn](https://www.linkedin.com/in/gabriel-rocha-28ab8414b/).
