@@ -26,6 +26,7 @@ I'm Gabriel Rocha, a passionate developer from Brazil, currently studying **Syst
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)  
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea)  
 
 ---
 
