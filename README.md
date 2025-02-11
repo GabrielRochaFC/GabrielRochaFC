@@ -6,7 +6,7 @@ I'm Gabriel Rocha, a passionate developer from Brazil, currently studying **Syst
 
 ### Contact 🤝
 
-<a href="https://www.linkedin.com/in/gabriel-rocha-28ab8414b/"><img src="https://img.shields.io/badge/-Gabriel Rocha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gabriel-rocha-28ab8414b/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ---
 
